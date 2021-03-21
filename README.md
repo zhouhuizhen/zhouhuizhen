@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhuizhen&show_icons=true&theme=radical)
 My real name is zhouhuizhen, a college student who is from HLJIT.
 
-## 💬 Worked language for me
+## 💬 Program language for me
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C/C++
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
