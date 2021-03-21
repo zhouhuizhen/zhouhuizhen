@@ -1,6 +1,6 @@
 ### Hi there, I'm Kirirabit 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhuizhen&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhouhuizhen&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 My real name is zhouhuizhen, a college student who is from HLJIT.
 
 ## 💬 Program language for me
