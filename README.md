@@ -1,7 +1,17 @@
 ### Hi there, I'm Kirirabit 👋
 
-My real name is zhouhuizhen, a college student who is from HLJIT.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhuizhen&show_icons=true&theme=radical)
+My real name is zhouhuizhen, a college student who is from HLJIT.
+
+## 💬 Worked language for me
+
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C/C++
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡x86/8086/arm assemble language
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Java
+
+## 💡 My status
+
 - 🌱 I’m currently learning TOEFL...
 - 👯 I’m looking to collaborate on a master of computer science offer from US...
 - 🤔 I’m looking for help with people who is really like to learn computer science...
