@@ -1,7 +1,5 @@
 ### Hi there, I'm Kirirabit 👋
-
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/4e7c0bddf9113cb320df713cd49c704f.png" />
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhouhuizhen&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 My real name is zhouhuizhen, a college student who is from HLJIT.
 
